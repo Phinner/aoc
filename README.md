@@ -1,0 +1,3 @@
+# aoc
+
+I will do it in java because why not...
